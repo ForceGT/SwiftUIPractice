@@ -23,6 +23,8 @@ Preview
 ### Find the Flag
 <hr>
 
+Choose the correct flag and get rewarded type of game, uses animations and transformations to enhance the user experience
+
 | Screen 1             |  Screen 2 |
 :-------------------------:|:-------------------------:|
 ![](screens/findtheflag/1.png) | ![](screens/findtheflag/2.png)|
@@ -33,6 +35,14 @@ https://user-images.githubusercontent.com/31688051/135744481-97b703bc-e7bb-4dab-
 
 <hr>
 
+### WeSplit
+<hr>
+An app that can be used to calculate the split amount for a number of people, useful when paying bills etc with the tip included ofcourse
 
+| Screen 1             |  Screen 2 |
+:-------------------------:|:-------------------------:|
+![](screens/wesplit/1.png) | ![](screens/wesplit/2.png)|
+
+<hr>
 
 
