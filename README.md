@@ -25,7 +25,7 @@ Preview
 
 | Screen 1             |  Screen 2 |
 :-------------------------:|:-------------------------:|
-![](screens/findtheflag/1.png) | ![](screens/findtheflag/2.png)|
+![](screens/findtheflag/1 .png) | ![](screens/findtheflag/2.png)|
 
 Preview
 
